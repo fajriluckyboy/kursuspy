@@ -1,0 +1,7 @@
+print("Halo, Fajri!")
+print("nama:", "Fajri")
+print("satu", "dua", "tiga", sep="-")
+print("Halo", end=" ")
+print("Fajri")
+print()
+print("setelah baris kosong")

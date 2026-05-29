@@ -1,0 +1,5 @@
+print(type(100))
+print(type("Halo"))
+print(type(print))
+print(type(True))
+print("halo".upper())
