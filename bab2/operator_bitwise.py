@@ -1,0 +1,8 @@
+print(5 & 3)
+print(5 | 3)
+print(5 ^ 3)
+print(~5)
+print(8 >> 1)
+print(8 >> 2)
+print(2 << 1)
+print(2 << 3)

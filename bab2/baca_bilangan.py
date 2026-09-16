@@ -1,0 +1,10 @@
+nama = input("Masukkan nama: ")
+umur = int(input("Masukkan umur: "))
+tinggi = float(input("Masukkan tinggi badan: "))
+
+print(type(umur))
+print(type(tinggi))
+print(f"Halo {nama}!")
+print(f"Umur kamu {umur} tahun")
+print(f"Tahun depan kamu berumur {umur + 1} tahun")
+print(f"Tinggi kamu {tinggi} cm")
