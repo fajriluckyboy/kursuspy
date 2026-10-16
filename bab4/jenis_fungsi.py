@@ -1,0 +1,8 @@
+print(abs(-99))
+print(max(3, 7, 1, 9, 2))
+print(min(3, 7, 1, 9, 2))
+print(sum([1, 2, 3, 4, 5]))
+print(len("Fajri"))
+print(len([1, 2, 3, 4, 5]))
+print(round(3.14159, 2))
+print(pow(2, 8))
