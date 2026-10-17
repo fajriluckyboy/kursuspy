@@ -1,0 +1,3 @@
+# Folder bytecode buatan Python
+__pycache__/
+*.pyc
